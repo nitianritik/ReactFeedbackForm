@@ -42,6 +42,7 @@ textarea {
   /* padding-top: 1%; */
   text-align: left;
   margin-left: 2%;
+
   padding-inline: 2%;
 }
 
@@ -70,10 +71,12 @@ textarea {
   overflow-x: hidden;
   height: 500px;
   margin-right: 0.2%;
+  
 }
 
 .Cont2::-webkit-scrollbar {
   /* margin-left: 10px; */
+  
   width: 0.4em;
 }
 
@@ -98,6 +101,8 @@ textarea {
 .Cont {
   border: 0px rgb(244, 244, 244) solid;
   margin-left: 3%;
+  margin-right: 3%;
+
 }
 
 button {
