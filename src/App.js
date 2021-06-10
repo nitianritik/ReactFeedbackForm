@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import LeftSidebar from "./Components/LeftSidebar";
+import RightSidebar from "./Components/RightSidebar";
+import { useState } from "react";
 
 function App() {
+  let [things, setthings] = useState([]);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="main">
+        <LeftSidebar SetThings={setthings} />
+        <RightSidebar Things={things} />
+      </div>
     </div>
   );
 }
