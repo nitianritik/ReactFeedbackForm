@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactFeedbackForm/static/css/main.b096d9a6.chunk.css",
+    "main.js": "/ReactFeedbackForm/static/js/main.5c454125.chunk.js",
+    "main.js.map": "/ReactFeedbackForm/static/js/main.5c454125.chunk.js.map",
+    "runtime-main.js": "/ReactFeedbackForm/static/js/runtime-main.59a4a0a5.js",
+    "runtime-main.js.map": "/ReactFeedbackForm/static/js/runtime-main.59a4a0a5.js.map",
+    "static/js/2.93f1cbfb.chunk.js": "/ReactFeedbackForm/static/js/2.93f1cbfb.chunk.js",
+    "static/js/2.93f1cbfb.chunk.js.map": "/ReactFeedbackForm/static/js/2.93f1cbfb.chunk.js.map",
+    "static/js/3.0ad26012.chunk.js": "/ReactFeedbackForm/static/js/3.0ad26012.chunk.js",
+    "static/js/3.0ad26012.chunk.js.map": "/ReactFeedbackForm/static/js/3.0ad26012.chunk.js.map",
+    "index.html": "/ReactFeedbackForm/index.html",
+    "static/css/main.b096d9a6.chunk.css.map": "/ReactFeedbackForm/static/css/main.b096d9a6.chunk.css.map",
+    "static/js/2.93f1cbfb.chunk.js.LICENSE.txt": "/ReactFeedbackForm/static/js/2.93f1cbfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a4a0a5.js",
+    "static/js/2.93f1cbfb.chunk.js",
+    "static/css/main.b096d9a6.chunk.css",
+    "static/js/main.5c454125.chunk.js"
+  ]
+}
